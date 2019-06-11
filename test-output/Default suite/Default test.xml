@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPIS171" name="Test_Engine.NewTest" tests="1" failures="0" timestamp="29 Mar 2018 19:00:48 GMT" time="27.485" errors="0">
+  <testcase name="test" time="27.483" classname="Test_Engine.NewTest"/>
+</testsuite>
